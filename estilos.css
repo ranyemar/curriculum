@@ -1,0 +1,64 @@
+.contenedor{
+	border: solid 1px;
+	padding: 0%;
+	width: 80%;
+	height: 100%px;
+	margin: 0 auto;
+}
+
+.foto{
+	margin: 35px;
+	width: 150px;
+	border: solid 5px #49AAD5;
+}
+.cont{
+	background: #A0CEDE;
+	padding: 5px;
+	width: 29%;
+	height: 1190px;
+}
+.nombre{
+	background: #49AAD5;
+	width: 100%;
+	height: 70px;
+	font-size: 30px;
+	text-align: center;
+}
+.data{
+	width: 100%;
+	height: 50px;
+	font-size: 14px;
+	text-align: center;
+	
+
+}
+.cont1{
+	width: 54%;
+	position: absolute;
+	padding: 10%;
+	top: -80px;
+	bottom: 0 ;
+	right: 290px;
+	left: 250px;
+
+}
+legend{
+	color: #49AAD5;
+}
+
+.hobbies-1{
+	float: left;
+}
+.footer{
+	width: 100%;
+	height: 65px;
+	background: #A0CEDE;
+}
+
+div .faceb-1{
+	float: left;
+	width: 100%;
+	height: 50px;
+	font-size: 14px;
+	text-align: center;	
+}
